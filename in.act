@@ -1,0 +1,17 @@
+actor D extends G(5) {
+    knownactors {
+    }
+
+    actorvars {
+    }
+
+    msghandler initial(int foo) {
+        a = b * "salam" / true || j < 3;
+        self.s();
+    }
+}
+main {
+
+}
+
+

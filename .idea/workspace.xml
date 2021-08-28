@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ec85b2a-9afc-41ed-842e-8b9d74af78d4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in.act" beforeDir="false" afterPath="$PROJECT_DIR$/in.act" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compiler-P2/acton.g4" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compiler-P2/acton.g4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compiler-P2/main/parsers/acton.interp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compiler-P2/main/parsers/acton.interp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compiler-P2/main/parsers/actonParser$MsgHandlerCallContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compiler-P2/main/parsers/actonParser$MsgHandlerCallContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compiler-P2/main/parsers/actonParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compiler-P2/main/parsers/actonParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Compiler-P2/main/visitor/VisitorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Compiler-P2/main/visitor/VisitorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/acton.g4" beforeDir="false" afterPath="$PROJECT_DIR$/src/acton.g4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/parsers/acton.interp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/parsers/acton.interp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/parsers/actonParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/parsers/actonParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/visitor/VisitorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/visitor/VisitorImpl.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Compiler-P2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1U7A1PAwPf5UfZaV3y2SHyYHlVV" />
+  <component name="PropertiesComponent">
+    <property name="$PROJECT_DIR$/src/acton.g4::/auto-gen" value="false" />
+    <property name="$PROJECT_DIR$/src/acton.g4::/gen-listener" value="true" />
+    <property name="$PROJECT_DIR$/src/acton.g4::/gen-visitor" value="false" />
+    <property name="$PROJECT_DIR$/src/acton.g4::/output-dir" value="C:\Users\Taha\Desktop\Compiler-P2\src\main\parsers" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Acton" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Acton" />
+      <module name="Compiler-P2" />
+      <option name="PROGRAM_PARAMETERS" value="run in.act" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.Acton" />
+      <option name="PROGRAM_PARAMETERS" value="run in.act" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ec85b2a-9afc-41ed-842e-8b9d74af78d4" name="Default Changelist" comment="" />
+      <created>1574697043993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574697043993</updated>
+      <workItem from="1574697047990" duration="2223000" />
+      <workItem from="1574769598755" duration="11344000" />
+      <workItem from="1574858293753" duration="10087000" />
+      <workItem from="1574924504481" duration="12670000" />
+      <workItem from="1574942501598" duration="2362000" />
+      <workItem from="1574947940510" duration="10999000" />
+      <workItem from="1575040009029" duration="435000" />
+      <workItem from="1575060070657" duration="447000" />
+      <workItem from="1575095166271" duration="20655000" />
+      <workItem from="1575174938351" duration="7786000" />
+      <workItem from="1575195864211" duration="25044000" />
+      <workItem from="1575284710952" duration="23299000" />
+      <workItem from="1575369589141" duration="26986000" />
+      <workItem from="1575398854383" duration="801000" />
+      <workItem from="1575403696923" duration="649000" />
+      <workItem from="1576417222151" duration="11000" />
+      <workItem from="1576427189231" duration="30000" />
+      <workItem from="1576427571872" duration="36000" />
+      <workItem from="1576427843264" duration="10000" />
+      <workItem from="1576559332493" duration="63000" />
+      <workItem from="1576560906006" duration="45000" />
+      <workItem from="1576561918544" duration="4000" />
+      <workItem from="1576565330594" duration="74000" />
+      <workItem from="1576859459561" duration="2262000" />
+      <workItem from="1576869120397" duration="204000" />
+      <workItem from="1576939922750" duration="762000" />
+      <workItem from="1576941156798" duration="2240000" />
+      <workItem from="1594989255380" duration="136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
